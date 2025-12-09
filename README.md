@@ -6,14 +6,6 @@
 This guide explains how to use **Claude Code** with **Qwen models for free** using the Claude Code Router.
 Everything is tailored specifically for your system:
 
-* Windows
-* Username: **HP**
-* CMD + Notepad
-* Correct paths
-* Step-by-step instructions
-
-Follow all steps carefully.
-
 ---
 
 # ⭐ Requirements
