@@ -229,5 +229,5 @@ Everything should now work again.
 
 # ✅ Done!
 
-Rimza
+by Rimza
 
